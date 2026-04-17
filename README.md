@@ -1,6 +1,6 @@
 # All Restaurants in Toledo (Metro), Ohio, US
 
-> Free BeamStation sample export with 25 rows and masked direct-contact fields.
+> Free BeamStation sample export with 118 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `122137` |
 | Location | Toledo, OH |
 | Category | Restaurants |
-| Full dataset size | 950 records |
-| Free sample size | 25 records (2.63%) |
-| Last export | 2026-03-31T16:06:11.589705+00:00 |
+| Full dataset size | 1,183 records |
+| Free sample size | 118 records (9.97%) |
+| Last export | 2026-04-14T16:55:17.994309+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-toledo-metro-ohio-us-sample-122137/releases/download/sample-latest/beamstation_122137_restaurants-us-toledooh_SAMPLE_DIST.csv) |
 
 ## What is in this sample
