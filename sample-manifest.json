@@ -1,12 +1,12 @@
 {
-  "export_job_id": "d507eddf-b5b0-475c-8747-c23fba051988",
+  "export_job_id": "e8910de9-c3b4-4057-bb45-f3535b84098a",
   "id_short": 122137,
-  "published_at": "2026-04-21T19:03:46Z",
+  "published_at": "2026-04-29T07:04:37Z",
   "repo_name": "all-restaurants-in-toledo-metro-ohio-us-sample-122137",
   "sample_asset_name": "beamstation_122137_restaurants-us-toledooh_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/122137/beamstation_122137_restaurants-us-toledooh_SAMPLE_DIST.csv",
-  "sample_records": 102,
-  "sample_sha256": "f9d4ef0f3d07930a9246e21dc8f24042f418d6292eb158a98b84002d7edcf3f4",
-  "sample_size_bytes": 394149,
-  "total_records": 1029
+  "sample_records": 120,
+  "sample_sha256": "b1a5da2bd19f88e75331c7625df51d45c5f434c2c54c0e435aa34a77f323066c",
+  "sample_size_bytes": 399102,
+  "total_records": 1204
 }
